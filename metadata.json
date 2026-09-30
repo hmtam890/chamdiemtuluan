@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Chấm Toán THCS",
+  "description": "Hệ thống hỗ trợ giáo viên chấm bài tự luận Toán THCS (lớp 6-9) từ ảnh chụp hoặc PDF với AI nhận dạng chữ viết tay, kiểm duyệt bước giải và xuất chú thích trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
